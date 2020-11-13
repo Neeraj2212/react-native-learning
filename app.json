@@ -1,0 +1,12 @@
+{
+  "name": "react-native-course",
+  "displayName": "react-native-course",
+  "expo": {
+    "name": "react-native-course",
+    "slug": "react-native-course",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
